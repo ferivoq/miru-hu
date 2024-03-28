@@ -56,12 +56,12 @@
   "home": {
     "continue-watching": "Tovább",
     "favorite": "Kedvenc",
-    "no-record": "No favorites or viewing records",   asdasdasd
+    "no-record": "Nincsenek kedvencek",
     "watched": "{ep} megtekintve",
-    "favorite-all": "All {type} favorites" asdasdasd
+    "favorite-all": "Az összes {type} kedvenced"
   },
   "search": {
-    "hint-text": "Használja okosan a keresést!~",
+    "hint-text": "Használjd okosan a keresést!~",
     "all": "Összes",
     "filter": "Szűrő"
   },
@@ -300,25 +300,25 @@
     "show-report-checkbox": "Report panel megjelenítése app indításakor"
   },
   "anilist": {
-    "title": "AniList Tracking",
-    "login-hint-1": "Seems you haven't logged into AniList yet",
-    "login-hint-2": "Please log into AniList first",
-    "status": "Status",
-    "score": "Score",
-    "watching": "Watching",
-    "reading": "Reading",
-    "completed": "Completed",
-    "paused": "Paused",
-    "dropped": "Dropped",
-    "planning": "Planning",
-    "hold-on": "Hold on",
-    "re-watching": "Re-watching",
-    "re-reading": "Re-reading",
-    "start-date": "Start Date",
-    "end-date": "End Date",
+    "title": "AniList Trackelés",
+    "login-hint-1": "Úgylátszik, hogy nem vagy bejelentkezve AniListbe", 
+    "login-hint-2": "Elősszőr jelentkezz be az AniListbe",
+    "status": "Státusz",
+    "score": "Vélemény",
+    "watching": "Nézve",
+    "reading": "Olvasva",
+    "completed": "Befejezve",
+    "paused": "Megállítva",
+    "dropped": "Eldobva",
+    "planning": "Tervezve",
+    "hold-on": "Szünetelve",
+    "re-watching": "Újra nézve",
+    "re-reading": "Újra olvasva",
+    "start-date": "Kezdő Dátum",
+    "end-date": "Befejezés Dátum",
     "unbind": "Unbind",
-    "episodes": "Episodes",
-    "manga-chapter-read": "Manga Chapter Read: {chapters}",
-    "anime-episode-watch": "Anime Episode Watched: {episodes}"
+    "episodes": "Epizódok",
+    "manga-chapter-read": "Manga Fejezetek Elolvasva: {chapters}",
+    "anime-episode-watch": "Anime Epizódok Megnézve: {episodes}"
   }
 }
